@@ -32,3 +32,13 @@ Technical skills I want to improve: System design, microservices architecture, a
 Technologies I want to learn: Go (Golang), GraphQL, AWS/GCP services.
 
 Dream Job Position: Senior Full-Stack Developer / Solutions Architect at an innovative Tech Enterprise.
+
+## Semester Goals
+* Learn Django
+* Learn REST API Development
+* Learn Cloud Deployment
+
+## Portfolio Projects
+1. Student Management System
+2. Internship Management System
+3. Inventory Management System
